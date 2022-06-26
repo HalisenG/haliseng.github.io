@@ -1,0 +1,15 @@
+a{
+    font-size:30px;
+    font-family: 'SourceCodePro-Medium', ＭＳ ゴシック;
+}
+p{
+    font-size:30px;
+    font-family: 'SourceCodePro-Medium', ＭＳ ゴシック;
+}
+h1{
+    font-size:40px;
+    font-family: 'SourceCodePro-Medium', ＭＳ ゴシック;
+}
+body{
+    background-image:url("background.png");
+}
